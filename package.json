@@ -8,10 +8,6 @@
     "fourmeta"
   ],
   "description": "The base CRA template for Fourmeta team.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git"
-  },
   "license": "MIT",
   "engines": {
     "node": ">=14"
