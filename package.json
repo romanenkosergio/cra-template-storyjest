@@ -1,0 +1,23 @@
+{
+  "name": "cra-template-fourmeta",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "fourmeta"
+  ],
+  "description": "The base CRA template for Fourmeta team.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/create-react-app.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
