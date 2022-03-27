@@ -1,4 +1,4 @@
-# Getting Started with Fourmeta Template
+# Getting Started with StoryJest Template
 
 ## Available Scripts
 
@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ### `npm test:watch`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 
 ### `npm run test:coverage`
 
@@ -36,5 +36,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Launches `storybook` page when you can see all storybook components.
 
 ### In that template we use [Redux toolkit](https://redux-toolkit.js.org/tutorials/typescript), [RTK-query](https://redux-toolkit.js.org/rtk-query/overview), [BEM](https://ru.bem.info/methodology/)
-
-## Also, you can find our code styleguide [here](https://docs.google.com/document/d/1TrwhOrgLUKfY74nbcaVb_FPAXja_wtlXPSSzHMmDWzA/edit?usp=sharing)!

@@ -1,17 +1,15 @@
-# cra-template-fourmeta
+# cra-template-storyjest
 
-This is the template for Fourmeta team.
-
-To use this template, add `--template fourmeta` when creating a new app.
+To use this template, add `--template storyjest` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template fourmeta
+npx create-react-app my-app --template storyjest
 
 # or
 
-yarn create react-app my-app --template fourmeta
+yarn create react-app my-app --template storyjest
 ```
 
 ## Available Scripts
@@ -28,7 +26,7 @@ You will also see any lint errors in the console.
 
 ### `npm test:watch`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 
 ### `npm run test:coverage`
 

@@ -1,13 +1,15 @@
 {
-  "name": "cra-template-fourmeta",
-  "version": "1.0.1",
+  "name": "cra-template-storyjest",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "fourmeta"
+    "storyjest"
   ],
-  "description": "The base CRA template for Fourmeta team.",
+  "author": "romanenkosergio",
+  "description": "The base CRA template for all users",
+  "repository": "https://github.com/romanenkosergio/cra-template-storyjest.git",
   "license": "MIT",
   "engines": {
     "node": ">=14"
