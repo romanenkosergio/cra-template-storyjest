@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-storyjest",
+  "name": "romanenkosergio/cra-template-storyjest",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -17,5 +17,8 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "publishConfig": {
+   "romanenkosergio:registry": "https://npm.pkg.github.com"
+ }
 }
